@@ -3,10 +3,9 @@
 I'm focused on the **operational analysis, validation, and improvement of ADAS/AD systems**, using data architectures, machine learning, and backend tools to extract meaningful insights from real-world data.
 
 Currently, I work on:
-- Designing data flows that support system monitoring, diagnostics, and performance tuning
-- Training and deploying computer vision models for real-time perception
-- Integrating LLMs for inference and operational support
-- Selecting tools and designing system components (e.g., MinIO, Quart, PostgreSQL)
+- Designing **end-to-end machine learning pipelines and data flows** that support system monitoring, diagnostics, and performance analysis
+- Training and deploying ML models
+- Selecting and orchestrating backend components (e.g., MinIO, Quart, MongoDB...) to support scalable, maintainable systems
 
 ---
 
@@ -20,13 +19,19 @@ Currently, I work on:
 
 ---
 
-## 🧪 Featured Projects
-
-> I'm currently working on building public demos that reflect real-world ADAS challenges. More coming soon!
-
-- [`adas-systems-lab`](https://github.com/tu-usuario/adas-systems-lab) – Prototypes and architectural patterns for data-driven tools in autonomous systems (WIP)
-
----
-
 ## 🛠️ Technologies I work with
 
+**Languages & Frameworks**  
+Python • PyTorch • FastAPI • Quart • JavaScript • CSS
+
+**Machine Learning & MLOps**  
+YOLO • OpenCV • MLflow • Kubeflow • scikit-learn • Hugging Face Transformers
+
+**Data & Backend Infrastructure**  
+MinIO • Jenkins • PostgreSQL • MariaDB • MongoDB • SQLite • REST APIs • Docker • Kubernetes
+
+**DevOps & Workflow Orchestration**  
+Git • GitHub Actions • CI/CD • Helm • Make • Bash scripting
+
+**Visualization & Analysis**  
+Power BI • Pandas • Matplotlib • Seaborn • Jupyter • Grafana
